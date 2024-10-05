@@ -1,0 +1,15 @@
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.AssemblyInfoInputs.cache
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.AssemblyInfo.cs
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.sourcelink.json
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\bin\Debug\net8.0\Beginner_Exercises.exe
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\bin\Debug\net8.0\Beginner_Exercises.deps.json
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\bin\Debug\net8.0\Beginner_Exercises.runtimeconfig.json
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\bin\Debug\net8.0\Beginner_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\bin\Debug\net8.0\Beginner_Exercises.pdb
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\refint\Beginner_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.pdb
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\Beginner_Exercises.genruntimeconfig.cache
+C:\Users\cashi\development\csharp_exercises\Beginner_Exercises\obj\Debug\net8.0\ref\Beginner_Exercises.dll

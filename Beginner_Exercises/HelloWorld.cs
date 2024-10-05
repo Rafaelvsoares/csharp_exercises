@@ -1,8 +1,8 @@
 using System;
 
-class Program
+public class HelloWorld
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Print "Hello, World!" to the console
     }

@@ -1,8 +1,8 @@
 using System;
 
-class Program
+public class PalidromeCheck
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Check if a string is a palindrome
     }

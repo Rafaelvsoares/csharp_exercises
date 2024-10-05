@@ -1,8 +1,8 @@
 using System;
 
-class Program
+public class SimpleCalculator
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Create a basic calculator with +, -, *, /
     }

@@ -1,8 +1,8 @@
 using System;
 
-class Program
+public class OddOrEven
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Check if a number is odd or even
     }
