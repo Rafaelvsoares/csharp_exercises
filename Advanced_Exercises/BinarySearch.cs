@@ -1,9 +1,10 @@
 using System;
 
-class Program
+public class BinarySearch
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Implement binary search in a sorted array
+        Console.WriteLine("Task: Implement binary search in a sorted array");
     }
 }

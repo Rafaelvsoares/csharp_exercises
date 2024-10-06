@@ -1,10 +1,13 @@
 using System;
 using System.Net.Http;
 
-class Program
+public class WebScrapper
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Implement a simple web scraper to extract data from a webpage
+      Console.WriteLine("Task: Implement a simple web scraper to extract data from a webpage");
+        
     }
 }
+
+

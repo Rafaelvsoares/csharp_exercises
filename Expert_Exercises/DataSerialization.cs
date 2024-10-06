@@ -1,9 +1,11 @@
 using System;
 
-class Program
+
+public class DataSerialization
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Serialize an object to JSON or XML and deserialize it back
+      Console.WriteLine("Task: Serialize an object to JSON or XML and deserialize it back");
+        
     }
 }

@@ -1,9 +1,8 @@
 using System;
-
-class Program
+public class FibonacciSequence
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Generate the first n numbers of the Fibonacci sequence
+      Console.WriteLine("Task: Generate the first n numbers of the Fibonacci sequence");
     }
 }

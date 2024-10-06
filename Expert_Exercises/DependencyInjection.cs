@@ -1,9 +1,11 @@
 using System;
 
-class Program
+
+public class DependencyInjection
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Implement dependency injection in a simple console application
+      Console.WriteLine("Task: Implement dependency injection in a simple console application");
+        
     }
 }

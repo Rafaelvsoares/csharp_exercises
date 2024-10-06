@@ -1,9 +1,10 @@
 using System;
 
-class Program
+public class ArraySorting
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Sort an array of integers in ascending or descending order
+        Console.WriteLine("Task: Sort an array of integers in ascending or descending order");
     }
 }
+

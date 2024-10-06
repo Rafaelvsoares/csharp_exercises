@@ -1,0 +1,15 @@
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.AssemblyInfoInputs.cache
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.AssemblyInfo.cs
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.sourcelink.json
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\bin\Debug\net8.0\Expert_Exercises.exe
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\bin\Debug\net8.0\Expert_Exercises.deps.json
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\bin\Debug\net8.0\Expert_Exercises.runtimeconfig.json
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\bin\Debug\net8.0\Expert_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\bin\Debug\net8.0\Expert_Exercises.pdb
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\refint\Expert_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.pdb
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\Expert_Exercises.genruntimeconfig.cache
+C:\Users\cashi\development\csharp_exercises\Expert_Exercises\obj\Debug\net8.0\ref\Expert_Exercises.dll

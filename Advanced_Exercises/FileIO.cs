@@ -1,10 +1,11 @@
 using System;
 using System.IO;
 
-class Program
+public class FileIO
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Read from a file, process the text, and write to another file
+        Console.WriteLine("Task: Read from a file, process the text, and write to another file");
     }
 }

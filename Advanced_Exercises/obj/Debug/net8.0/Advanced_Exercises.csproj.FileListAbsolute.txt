@@ -1,0 +1,15 @@
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.AssemblyInfoInputs.cache
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.AssemblyInfo.cs
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.csproj.CoreCompileInputs.cache
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.sourcelink.json
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\bin\Debug\net8.0\Advanced_Exercises.exe
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\bin\Debug\net8.0\Advanced_Exercises.deps.json
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\bin\Debug\net8.0\Advanced_Exercises.runtimeconfig.json
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\bin\Debug\net8.0\Advanced_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\bin\Debug\net8.0\Advanced_Exercises.pdb
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\refint\Advanced_Exercises.dll
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.pdb
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\Advanced_Exercises.genruntimeconfig.cache
+C:\Users\cashi\development\csharp_exercises\Advanced_Exercises\obj\Debug\net8.0\ref\Advanced_Exercises.dll

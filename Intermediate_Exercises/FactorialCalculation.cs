@@ -1,9 +1,9 @@
 using System;
 
-class Program
+public class FactorialCalculation
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Calculate the factorial of a number (both iteratively and recursively)
+      Console.WriteLine("Task: Calculate the factorial of a number (both iteratively and recursively)");
     }
 }

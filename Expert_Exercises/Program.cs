@@ -1,2 +1,14 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Program{
+  static void Main(string[] args){
+    CustomLinkedList.Execute();
+    DataSerialization.Execute();
+    DependencyInjection.Execute();
+    ExpressionTreeEvaluator.Execute();
+    LRUCache.Execute();
+    Multithreading.Execute();
+    ObserverPattern.Execute();
+    WebScrapper.Execute();
+  }
+}

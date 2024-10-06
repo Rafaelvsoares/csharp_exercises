@@ -1,10 +1,12 @@
 using System;
 using System.Threading.Tasks;
 
-class Program
+public class Multithreading
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Use multithreading to perform parallel computations
+      Console.WriteLine("Task: Use multithreading to perform parallel computations");
+        
     }
 }
+

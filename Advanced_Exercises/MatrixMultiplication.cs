@@ -1,9 +1,10 @@
 using System;
 
-class Program
+public class MatrixMultiplication
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Multiply two matrices together
+        Console.WriteLine("Task: Multiply two matrices together");
     }
 }

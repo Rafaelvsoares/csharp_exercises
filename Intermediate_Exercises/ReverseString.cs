@@ -1,9 +1,8 @@
 using System;
-
-class Program
+public class ReverseString
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Reverse a string without using built-in functions
+      Console.WriteLine("Task: Reverse a string without using built-in functions");
     }
 }

@@ -1,9 +1,12 @@
 using System;
 
-class Program
+
+public class LRUCache
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Implement an LRU cache with efficient insert, retrieve, and eviction
+      Console.WriteLine("Task: Implement an LRU cache with efficient insert, retrieve, and eviction");
+        
     }
 }
+

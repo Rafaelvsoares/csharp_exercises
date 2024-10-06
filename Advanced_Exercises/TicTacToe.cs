@@ -1,9 +1,10 @@
 using System;
 
-class Program
+public class TicTacToe
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Implement a simple Tic-Tac-Toe game for two players
+        Console.WriteLine("Task: Implement a simple Tic-Tac-Toe game for two players");
     }
 }

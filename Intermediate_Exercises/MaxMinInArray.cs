@@ -1,9 +1,9 @@
 using System;
 
-class Program
+public class MaxMinInArray
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Find the maximum and minimum elements in an array
+      Console.WriteLine("Task: Find the maximum and minimum elements in an array");
     }
 }

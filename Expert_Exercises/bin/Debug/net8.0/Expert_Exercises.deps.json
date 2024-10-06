@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Expert_Exercises/1.0.0": {
+        "runtime": {
+          "Expert_Exercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Expert_Exercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,9 +1,11 @@
 using System;
 
-class Program
+public class CustomLinkedList
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Implement a singly linked list with basic operations
+      Console.WriteLine("// Task: Implement a singly linked list with basic operations");
+        
     }
 }
+

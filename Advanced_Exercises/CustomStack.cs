@@ -1,9 +1,10 @@
 using System;
 
-class Program
+public class CustomStack
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Implement a custom stack with push, pop, and peek methods
+        Console.WriteLine("Task: Implement a custom stack with push, pop, and peek methods");
     }
 }

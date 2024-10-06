@@ -2,10 +2,11 @@ using System;
 using System.Linq;
 using System.Collections.Generic;
 
-class Program
+public class LinqQuery
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
         // Task: Use LINQ to filter, sort, and transform data
+        Console.WriteLine("Task: Read from a file, process the text, and write to another file");
     }
 }

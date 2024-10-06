@@ -1,9 +1,12 @@
 using System;
 
-class Program
+public class ObserverPattern
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Implement the Observer design pattern
+      Console.WriteLine("Task: Implement the Observer design pattern");
+        
     }
 }
+
+

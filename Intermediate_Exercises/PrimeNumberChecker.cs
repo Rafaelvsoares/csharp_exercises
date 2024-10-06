@@ -1,9 +1,9 @@
 using System;
 
-class Program
+public class PrimeNumberChecker
 {
-    static void Main(string[] args)
+    public static void Execute()
     {
-        // Task: Determine if a number is prime
+      Console.WriteLine("Task: Determine if a number is prime");
     }
 }
